@@ -9,9 +9,9 @@ const settings = {
 
 //Home Page
 const greeting = {
-  title: "Hello.",
+  title: "Hello,",
   title2: "Thulina",
-  logo_name: "Thulina.p()",
+  logo_name: "<Thulina>",
   nickname: "Endham / Endhambot",
   full_name: "Thulina Perera",
   subTitle:
